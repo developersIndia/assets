@@ -1,6 +1,6 @@
-# Static Assets for the DevelopersIndia Community
+# Static Assets for the developersIndia Community
 
-The repository contains static assets like SVG logos, favicons & such to be
+The repository contains static assets like SVG logos, and favicons & such as to be
 used many platforms the developersIndia community has established a name in.
 
 ## Licensing & Distribution Guidelines
@@ -12,14 +12,14 @@ repository, refer to the [LICENSE](./LICENSE) document.
 ## Tools Used to Create the Assets
 
 We use a variety of tools to create, manage & maintain the assets in this
-repository. And following are the list of tools we use often:
+repository. And following is the list of tools we use often:
 
 - [Favicon Generator](https://realfavicongenerator.net)
 - [Canva](https://www.canva.com)
 
 ## Credits & Acknowledgement
 
-Credits goes to this amazing contributors without whose help & effort, the
+Credits goes to these amazing contributors without whose help & effort, the
 contents of this repository wouldn't have seen the light of the day!
 
 - [Siddhart Gehlot](https://github.com/sidharthgehlot) for creating the
